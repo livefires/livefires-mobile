@@ -1,7 +1,7 @@
-Live Fires - Mobile
-=====================
+Live Fires - Mobile { NASA SpaceApps Challenge 2014 }
+=====================================================
 
-Shows live fires on the past 24 hours. Mobile version
+Shows live fires on the past 24 hours. Mobile version [WIP].
 
 Integrates NASA EOSDIS MODIS active fire data for the last 24, from: https://earthdata.nasa.gov/data/near-real-time-data/firms/active-fire-data and OpenStreetMaps.
 
